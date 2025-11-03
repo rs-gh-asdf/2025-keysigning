@@ -26,7 +26,7 @@ This table exists to track and share **key IDs**, **proofs** and **key owner sig
 |Name (optional) |Email user (optional) |Email domain (optional) |Key ID |Proof |Signed key sharing preference
 
 |Adam Monsen |haircut |gmail.com |`0xA9A14F22F57DA182` |https://adammonsen.com/seagl-2025-keysigning-party-proof/[adammonsen.com] |upload to `keyserver.ubuntu.com`
-| |root |punkto.org |`0xF28844F4C151E433` |https://punkto.org[punkto.org] |send me the file somehow
+| |root |punkto.org |`0xF28844F4C151E433` |https://punkto.org/keysigning-party[punkto.org] |send me the file somehow
 |Ted Matsumura |matsumura |gmail.com |`0x83995F6352AD05FA` |will bring Govt ID to show |upload to `keyserver.ubuntu.com`
 |===
 
