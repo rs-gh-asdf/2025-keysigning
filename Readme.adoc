@@ -20,9 +20,7 @@ Guide and notes for an unofficial https://en.wikipedia.org/wiki/Key_signing_part
 
 == 📑 Notes
 
-This table exists primarily to track **key IDs** and **key owner signed key sharing preference**.
-That's it.
-Name and email are optional.
+This table exists to track and share **key IDs**, **proofs** and **key owner signed key sharing preference**.
 
 |===
 |Name (optional) |Email user (optional) |Email domain (optional) |Key ID |Proof |Signed key sharing preference
