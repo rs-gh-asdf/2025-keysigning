@@ -5,13 +5,16 @@ Guide and notes for a https://en.wikipedia.org/wiki/Key_signing_party[key signin
 
 == 📜 Guide
 
-. Follow and refer to https://wiki.debian.org/Keysigning[the Debian keysigning guide].
-. Create or double-check your keypair.
+. Follow and refer to
+.. https://wiki.debian.org/Keysigning[the Debian keysigning guide].
+.. https://seagl.org/coc[the SeaGL code of conduct].
+. Create your keypair if you don't already have one.
 . Share your public key publicly.
+. Add a row to the table below to share your signed key sharing preference.
 . Bring to the party:
 .. Some form of government-issued ID (passport or similar).
 .. Printouts with your name, email, key ID and algorithm, key fingerprint.
-. Afterwards:
+. After the party / in private:
 .. Sign keys.
 .. Distribute keys according to key owners' preferences.
 
@@ -31,7 +34,7 @@ Name and email are optional.
 
 **Key ID** is the last 16 hex characters of your primary/main/Certify key.
 
-
+**Signed key sharing preference** tells folks what to do with your key after they sign it.
 
 == ⚖️ Copyright and license
 
